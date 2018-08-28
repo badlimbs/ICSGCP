@@ -587,8 +587,7 @@ section.lightgrey a {
 .hero { 
   background: #1f1f1f;
   margin-bottom: 0;
-  padding-top: 8em; 
-  padding-bottom: 6em;
+  padding: 8em 1em 6em 1em;
   color: #fff; }
   .hero h1, .hero h2 {
     font-family: "Asul", Helvetica, Arial, sans-serif;
